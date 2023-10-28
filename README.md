@@ -1,4 +1,4 @@
-![icons8-react](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/48e399bc-552b-413a-8099-c2b9fd2fd969)![icons8-javascript](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/102e6044-5dda-47dd-83d3-ef5b526c35f1)![icons8-mysql (1)](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/563403fc-051b-4e4c-90a4-e149b317fb5f)![icons8-sql-server](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/9276b165-df44-433e-8700-af0f86197a1e)![icons8-intellij-idea](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/10e4d5db-fc61-481f-9060-0f1f90d169d8)### Hi there 👋, Welcome!
+### Hi there 👋, Welcome!
 
 ![Technology Service](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/f620881b-8acb-42f7-ad77-4a491e02d7b3)
 
