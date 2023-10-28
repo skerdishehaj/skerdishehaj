@@ -33,5 +33,5 @@ Web Development `|` Docker `|` Relational Database `|` Problem Solving
 - 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on different **ReactJS** projects.
 - 💬 Ask me about anything 🧠🤣.
-- 📫 How to reach me: `skerdianshehaj ![icons8-linkedin-16](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/365ab30d-f6ec-4d53-bebf-f0b67abe5afc)`
+- 📫 How to reach me: `skerdianshehaj` ![icons8-linkedin-16](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/365ab30d-f6ec-4d53-bebf-f0b67abe5afc)
 - 😄 Pronouns: He/Him
