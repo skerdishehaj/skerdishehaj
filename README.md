@@ -9,7 +9,7 @@ I have successfully completed my Bachelor's degree in **_Informatics Engineering
 
 I have a huge interest in _Frontend Development_ 🖥! Currently studying React JS ❄ and Docker 🐋. 
 
-Currenly working as _`Technical Engineering`_ `@` **`CData Software`**
+Currenly working as _`Software Developer`_ `@` **`CData Software`**
 
 I have a strong enthusiasm for engaging in diverse tech communities and participating in tech competitions focused on creating _technological_ solutions.
 
