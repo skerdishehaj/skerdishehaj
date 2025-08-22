@@ -1,8 +1,5 @@
 ### Hi there 👋, Welcome!
 
-![Technology Service](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/f620881b-8acb-42f7-ad77-4a491e02d7b3)
-
-
 Hello! 👋 My name is **Skerdi Shehaj**. I am from _Polytechnic University of Tirana_ 🏫 taking Master on Software Engineering 📚 (`MSEng`).
 
 I have successfully completed my Bachelor's degree in **_Informatics Engineering_** at the **Faculty of Information Technology**, _Polytechnic University of Tirana_.
