@@ -1,34 +1,81 @@
-### Hi there 👋, Welcome!
+<img src="assets/profile-banner.svg" alt="Skerdian Shehaj - Java backend development and API integration" width="100%" />
 
-Hello! 👋 My name is **Skerdi Shehaj**. I am from _Polytechnic University of Tirana_ 🏫 taking Master on Software Engineering 📚 (`MSEng`).
+# Hi, I'm Skerdian
 
-I have successfully completed my Bachelor's degree in **_Informatics Engineering_** at the **Faculty of Information Technology**, _Polytechnic University of Tirana_.
+I'm a backend-focused software developer based in **Tirana, Albania**. I work at **CData Software**, where I've been building Java data drivers and API integrations since **April 2023**.
 
-I have a huge interest in _Frontend Development_ 🖥! Currently studying React JS ❄ and Docker 🐋. 
+I like turning complex API behavior into clear, useful data access: SQL interfaces, predictable queries, and maintainable backend code.
 
-Currenly working as _`Software Developer`_ `@` **`CData Software`**
+**[Portfolio](https://www.skerdi.tech/)** &nbsp; / &nbsp; **[Resume (PDF)](https://www.skerdi.tech/resume/Skerdian_Shehaj_Resume.pdf)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/skerdianshehaj/)** &nbsp; / &nbsp; **[Email](mailto:skerdianshehaj@gmail.com)**
 
-I have a strong enthusiasm for engaging in diverse tech communities and participating in tech competitions focused on creating _technological_ solutions.
+## Current work
 
-### Skills
-Web Development `|` Docker `|` Relational Database `|` Problem Solving
+**Software Developer - CData Software**  
+April 2023 - Present
 
-### Tools
-![icons8-vs-code-48](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/0e82b7f2-43a2-4140-9c3c-01b8521a6a47)
-![icons8-intellij-idea-48](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/d85d6b3a-18d8-41eb-bdf6-b60c44ae7444)
-![icons8-sql-server-48](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/3bfbe831-c535-4d7e-bbc1-4830a170d698)
-![icons8-mysql-48](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/421c9846-e8a6-4636-a419-4f06f316b8ef)
-![icons8-java-64](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/5d19f54d-9f82-45ef-a3be-c269a4231507)
-![icons8-javascript-48](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/3a9269b9-3ec7-4556-9aea-e613d979b0f7)
-![icons8-css3-48](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/11d30a76-b5cf-40ae-8887-3024c14fbb68)
-![icons8-html5-48](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/cd42ca85-2b85-4007-816e-bbaf9a12aac2)
-![icons8-docker-48](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/f1714648-2438-48e0-90be-afbe7d7e644f)
-![icons8-react-40](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/350d03a6-cc4b-4498-94b4-63cf79f20791)
+- Develop JDBC drivers and connectors that expose external API data through SQL.
+- Build features around batch operations, tables, views, stored procedures, and filtering.
+- Work with platforms including SharePoint, Microsoft Graph, HubSpot, ServiceNow, and Azure Cosmos DB.
+- Investigate pagination, relationships, permissions, and metadata issues; review code and improve reliability.
 
+<details>
+<summary><strong>A closer look at the engineering</strong></summary>
 
-- 🔭 I’m currently working on some simple **React** projects.
-- 🌱 I’m currently learning ReactJS.
-- 👯 I’m looking to collaborate on different **ReactJS** projects.
-- 💬 Ask me about anything 🧠🤣.
-- 📫 How to reach me: [**`skerdianshehaj`**](https://www.linkedin.com/in/skerdianshehaj/) ![icons8-linkedin-16 (1)](https://github.com/skerdishehaj/skerdishehaj/assets/87442412/83dd79da-f0d3-47d8-9371-7f8355ffe54e)
-- 😄 Pronouns: He/Him
+- Developed a custom joining algorithm that improved join-processing performance by **40%**.
+- Implement parallel data processing with configurable thread counts.
+- Work across **REST**, **SOAP**, and **OData** APIs.
+- Apply OOP and patterns such as Factory, Proxy, Builder, and Facade to keep Java changes maintainable.
+
+</details>
+
+## Technologies
+
+![Java](https://img.shields.io/badge/Java-37604a?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-37604a?style=flat-square&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-37604a?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-37604a?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-37604a?style=flat-square&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-37604a?style=flat-square&logo=git&logoColor=white)
+
+| Area | Tools and concepts |
+| --- | --- |
+| Backend | Java, Spring / Spring Boot, JDBC, OOP, design patterns |
+| Data and integrations | SQL, relational databases, REST, SOAP, OData, CRM integrations |
+| Frontend and tooling | React, JavaScript, HTML/CSS, Docker, Git, Jira |
+| Exploring | Azure and cloud tooling |
+
+## Featured projects
+
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [E-commerce Microservices](https://github.com/skerdishehaj/e-commerce-microservice-app) | Customer, product, order, payment, and notification services, with an API gateway and service discovery | Java, Spring Boot, Spring Cloud, Docker |
+| [The Wild Oasis](https://github.com/skerdishehaj/the-wild-oasis) | Hotel bookings, cabin management, guest check-in, and operational dashboards | React, React Query, Styled Components |
+| [WorldWise](https://github.com/skerdishehaj/world-wise) | Interactive maps, client-side routing, and a local data API | React, Leaflet, React Router |
+
+The Wild Oasis and WorldWise are practice projects.
+
+[Explore all repositories →](https://github.com/skerdishehaj?tab=repositories)
+
+<details>
+<summary><strong>Education and background</strong></summary>
+
+### Professional Master's in Software Engineering
+**Polytechnic University of Tirana, Faculty of Information Technology**  
+October 2023 - July 2024 · **GPA: 10.0/10**
+
+In collaboration with Lufthansa Industry Solutions.  
+Thesis: *Microservices Architecture utilizing the Spring Ecosystem*.
+
+### Bachelor's in Computer Engineering
+**Polytechnic University of Tirana, Faculty of Information Technology**  
+October 2020 - July 2023 · **GPA: 9.7/10**
+
+**Languages:** Albanian (native), English (fluent).
+
+</details>
+
+---
+
+Away from the keyboard: chess, good movies, and a little gardening.
+
+For a project or a conversation about backend development and integrations, [get in touch](mailto:skerdianshehaj@gmail.com).
